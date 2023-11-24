@@ -78,7 +78,7 @@ Tüm rehber aşağıdaki formatta listelenir.
 ![aramaSonuclari](gorseller/Arama-Sonuclari.png)
 
 #### (6) Rehberden Çık
-Kullanıcı bu seçeneği seçerek uygulayı sonlandırır.
+Kullanıcı bu seçeneği seçerek uygulamayı sonlandırır.
 
 # LICENSE
 [MIT](LICENSE)
