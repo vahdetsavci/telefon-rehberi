@@ -79,3 +79,6 @@ Tüm rehber aşağıdaki formatta listelenir.
 
 #### (6) Rehberden Çık
 Kullanıcı bu seçeneği seçerek uygulayı sonlandırır.
+
+# LICENSE
+[MIT](LICENSE)
